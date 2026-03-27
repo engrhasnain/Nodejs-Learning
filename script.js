@@ -76,3 +76,25 @@ async function ab(){
 }
 
 ab();
+
+
+//exploring node js, npm init, a package like fs how to insert it and use it
+const fs = require('fs');
+
+fs.writeFile("hey.txt", "hello word", function(err){
+    if(err) console.error(err);
+    else console.log("Done");
+})
+
+//explore the file system with this fs module, where we explore copyfile, unlink, rm, append etc..
+
+
+//also explore the https
+
+const http = require('http')
+
+const server = http.createServer(function(req, res){
+    res.end("Hello word")
+})
+
+server.listen(3000);
