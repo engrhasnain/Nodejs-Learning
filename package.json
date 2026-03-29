@@ -2,7 +2,7 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "This project contains materials and code examples from the first class of Node.js. It is designed to help beginners understand the basics of Node.js and core JavaScript concepts.",
-  "main": "start.js",
+  "main": "form.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -6,6 +6,7 @@ This project is a personal log of my daily learning in Node.js and JavaScript. E
 
 ## Learning Log
 
+
 1. Introduction to Node.js and its environment
 	- How to run JavaScript using Node.js
 	- Understanding the Node.js runtime and basic script execution
@@ -33,6 +34,12 @@ This project is a personal log of my daily learning in Node.js and JavaScript. E
 	- Organizing project folder structure for better maintainability (e.g., separating public assets, views, and routes)
 	- The role and setup of the `public` folder for serving static files (CSS, JS, images) in Express apps
 	- Using `nodemon` for automatic server restarts during development and why it's useful
+
+5. File Management with form.js, Files Folder, and index.ejs
+	- Introduction to handling file operations in Node.js using a dedicated form.js file
+	- Managing uploads, reads, or writes within a specific files folder for better organization
+	- Working with index.ejs to render dynamic content and interact with form/file data
+	- Understanding the flow between Express routes, EJS views, and file system operations
 
 ---
 
