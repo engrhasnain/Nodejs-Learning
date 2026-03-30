@@ -2,7 +2,7 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "This project contains materials and code examples from the first class of Node.js. It is designed to help beginners understand the basics of Node.js and core JavaScript concepts.",
-  "main": "form.js",
+  "main": "db.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,6 +20,7 @@
     "cookie-parser": "^1.4.7",
     "ejs": "^5.0.1",
     "express": "^5.2.1",
+    "mongoose": "^9.3.3",
     "nodemon": "^3.1.14"
   }
 }
