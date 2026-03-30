@@ -45,6 +45,10 @@ This project is a personal log of my daily learning in Node.js and JavaScript. E
 	- Implemented delete and edit functionality for managed files or data
 	- Learned how to update and remove records through the application interface
 	- Completed the first mini project, integrating all previous concepts into a working solution
+7. MonogDB 
+	- Connect to MongoDB with the help of mongoose
+	- Learn how the connect, schema and model work in the mongoose
+	- Implement the CRUD operation on it by creating, deleting, updating and reading the user data.
 ---
 
 With each class and commit, I continue to add new concepts and deepen my understanding of Node.js and JavaScript. This README will be updated to reflect my ongoing progress and learning milestones.
